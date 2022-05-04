@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es2021",
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "noUnusedLocals": true,
+      "outDir": "./dist,
+      "module": "ES2022",
+      "types": [
+        "node"
+      ]
+    }
+}
