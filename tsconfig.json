@@ -6,7 +6,7 @@
       "allowSyntheticDefaultImports": true,
       "strict": true,
       "noUnusedLocals": true,
-      "outDir": "./dist,
+      "outDir": "./dist",
       "module": "ES2022",
       "types": [
         "node"
