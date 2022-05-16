@@ -5,7 +5,7 @@
  * @version 1.0.0
  * @license MIT
  * ------------------------
- * Please see https://github.com/oxvs/JSONBuilder/blob/main/LICENSE for information about licensing.
+ * Please see https://github.com/0aoq/JSONBuilder/blob/main/LICENSE for information about licensing.
  */
 
 // classes
